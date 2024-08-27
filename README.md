@@ -9,8 +9,7 @@
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Features
 
